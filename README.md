@@ -1,4 +1,4 @@
-# Food Bank Surplus Redistribution Platform
+
 ## Software Engineer Lab 
 **Name:** Aniket Sen  
 **SRN:** PES1UG24CS062  
